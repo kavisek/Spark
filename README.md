@@ -11,8 +11,10 @@ This guide is based on using a Mac. The command to start PySpark with Apache Spa
 
 1. Download Apache Spark from its [website](https://spark.apache.org/downloads.html).
 2. Unzip the .tgz file.
-3. Open Terminal. Navigate to the folder we just unzipped. The file will most likely be in your Downloads or Desktop folder. For me its my Desktop folder.
+3. Open Terminal and navigate to the folder we just unzipped. The file will most likely be in your Downloads or Desktop folder. In my case all my downloads are sent to my Desktop.
 
-`cd Desktop/spark/`
+Navigate to Spark Directory: `cd Desktop/spark/`
 
-5. Enter the command `./bin/pyspark`
+5. Enter the command
+
+Start Spark: `./bin/pyspark`
